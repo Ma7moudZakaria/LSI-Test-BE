@@ -1,0 +1,17 @@
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\bin\Debug\net6.0\LSIInfrastructure.deps.json
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\bin\Debug\net6.0\LSIInfrastructure.dll
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\bin\Debug\net6.0\LSIInfrastructure.pdb
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\bin\Debug\net6.0\LSIDomain.dll
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\bin\Debug\net6.0\LSIEntities.dll
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\bin\Debug\net6.0\LSIDomain.pdb
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\bin\Debug\net6.0\LSIEntities.pdb
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\obj\Debug\net6.0\LSIInfrastructure.csproj.AssemblyReference.cache
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\obj\Debug\net6.0\LSIInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\obj\Debug\net6.0\LSIInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\obj\Debug\net6.0\LSIInfrastructure.AssemblyInfo.cs
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\obj\Debug\net6.0\LSIInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\obj\Debug\net6.0\LSIInfrastructure.csproj.CopyComplete
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\obj\Debug\net6.0\LSIInfrastructure.dll
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\obj\Debug\net6.0\refint\LSIInfrastructure.dll
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\obj\Debug\net6.0\LSIInfrastructure.pdb
+C:\Users\Ma7mo\source\repos\LSITest\LSIInfrastructure\obj\Debug\net6.0\ref\LSIInfrastructure.dll

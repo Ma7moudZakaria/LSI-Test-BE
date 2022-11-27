@@ -1,0 +1,12 @@
+C:\Users\Ma7mo\source\repos\LSITest\LSIEntities\bin\Debug\net6.0\LSIEntities.deps.json
+C:\Users\Ma7mo\source\repos\LSITest\LSIEntities\bin\Debug\net6.0\LSIEntities.dll
+C:\Users\Ma7mo\source\repos\LSITest\LSIEntities\bin\Debug\net6.0\LSIEntities.pdb
+C:\Users\Ma7mo\source\repos\LSITest\LSIEntities\obj\Debug\net6.0\LSIEntities.csproj.AssemblyReference.cache
+C:\Users\Ma7mo\source\repos\LSITest\LSIEntities\obj\Debug\net6.0\LSIEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ma7mo\source\repos\LSITest\LSIEntities\obj\Debug\net6.0\LSIEntities.AssemblyInfoInputs.cache
+C:\Users\Ma7mo\source\repos\LSITest\LSIEntities\obj\Debug\net6.0\LSIEntities.AssemblyInfo.cs
+C:\Users\Ma7mo\source\repos\LSITest\LSIEntities\obj\Debug\net6.0\LSIEntities.csproj.CoreCompileInputs.cache
+C:\Users\Ma7mo\source\repos\LSITest\LSIEntities\obj\Debug\net6.0\LSIEntities.dll
+C:\Users\Ma7mo\source\repos\LSITest\LSIEntities\obj\Debug\net6.0\refint\LSIEntities.dll
+C:\Users\Ma7mo\source\repos\LSITest\LSIEntities\obj\Debug\net6.0\LSIEntities.pdb
+C:\Users\Ma7mo\source\repos\LSITest\LSIEntities\obj\Debug\net6.0\ref\LSIEntities.dll

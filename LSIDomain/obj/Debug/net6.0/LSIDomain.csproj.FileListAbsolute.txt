@@ -1,0 +1,15 @@
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\bin\Debug\net6.0\LSIDomain.deps.json
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\bin\Debug\net6.0\LSIDomain.dll
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\bin\Debug\net6.0\LSIDomain.pdb
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\bin\Debug\net6.0\LSIEntities.dll
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\bin\Debug\net6.0\LSIEntities.pdb
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\obj\Debug\net6.0\LSIDomain.csproj.AssemblyReference.cache
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\obj\Debug\net6.0\LSIDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\obj\Debug\net6.0\LSIDomain.AssemblyInfoInputs.cache
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\obj\Debug\net6.0\LSIDomain.AssemblyInfo.cs
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\obj\Debug\net6.0\LSIDomain.csproj.CoreCompileInputs.cache
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\obj\Debug\net6.0\LSIDomain.csproj.CopyComplete
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\obj\Debug\net6.0\LSIDomain.dll
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\obj\Debug\net6.0\refint\LSIDomain.dll
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\obj\Debug\net6.0\LSIDomain.pdb
+C:\Users\Ma7mo\source\repos\LSITest\LSIDomain\obj\Debug\net6.0\ref\LSIDomain.dll
